@@ -1,0 +1,330 @@
+
+ ----------------------------------------------------------------
+Modelo 1 - Rede 3
+
+Número de camadas: 1
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.5422
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5422
+
+ ----------------------------------------------------------------
+Modelo 2
+
+Número de camadas: 2
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.5173
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5173
+
+ ----------------------------------------------------------------
+Modelo 5
+
+Número de camadas: 1
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.05
+Momentum: 0.90
+Repetição 1: Performance: 0.6343
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6343
+
+ ----------------------------------------------------------------
+Modelo 3
+
+Número de camadas: 5
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.7401
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.7401
+
+ ----------------------------------------------------------------
+Modelo 3
+
+Número de camadas: 5
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.05
+Momentum: 0.50
+Repetição 1: Performance: 0.5451
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5451
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6486
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6486
+
+ ----------------------------------------------------------------
+modelo 7
+
+Número de camadas: 7
+
+Número de neurônios por camada: 7
+Taxa de aprendizado: 0.07
+Momentum: 0.70
+Repetição 1: Performance: 0.6466
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6466
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.8392
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.8392
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6487
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6487
+
+ ----------------------------------------------------------------
+Modelo 10
+Número de camadas: 100
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.01
+Momentum: 0.70
+Repetição 1: Performance: 0.6680
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6680
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.5946
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5946
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6275
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6275
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6488
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6488
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.7350
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.7350
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.8412
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.8412
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6486
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6486
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6501
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6501
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.5946
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5946
+
+ ----------------------------------------------------------------
+Modelo 1 - Rede 3
+
+Número de camadas: 1
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.7641
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.7641
+
+ ----------------------------------------------------------------
+Modelo 2
+
+Número de camadas: 2
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.5702
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5702
+
+ ----------------------------------------------------------------
+Modelo 2
+
+Número de camadas: 2
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.5522
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5522
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6486
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6486
+
+ ----------------------------------------------------------------
+Modelo 1 - Rede 3
+
+Número de camadas: 1
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.5391
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5391
+
+ ----------------------------------------------------------------
+Modelo 8
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.6427
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.6427
+
+ ----------------------------------------------------------------
+Modelo 3
+
+Número de camadas: 5
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.05
+Momentum: 0.50
+Repetição 1: Performance: 0.5364
+
+Média do percentual de acertos: 100.00%
+Média do percentual de erros: 0.00%
+Média da performance: 0.5364

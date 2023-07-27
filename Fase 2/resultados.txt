@@ -1,0 +1,286 @@
+
+ ----------------------------------------------------------------
+
+Número de camadas: 1
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.8995
+Repetição 2: Performance: 0.9017
+Repetição 3: Performance: 0.8986
+Repetição 4: Performance: 0.9036
+Repetição 5: Performance: 0.9015
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8987
+Repetição 8: Performance: 0.8996
+Repetição 9: Performance: 0.9016
+Repetição 10: Performance: 0.8986
+Repetição 11: Performance: 0.8987
+Repetição 12: Performance: 0.8988
+Repetição 13: Performance: 0.8989
+Repetição 14: Performance: 0.8989
+Repetição 15: Performance: 0.8990
+Repetição 16: Performance: 0.8999
+Repetição 17: Performance: 0.8987
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8990
+Repetição 20: Performance: 0.8990
+
+Média do percentual de acertos: 22.16%
+Média do percentual de erros: 77.84%
+Média da performance: 0.8996
+
+ ----------------------------------------------------------------
+
+Número de camadas: 2
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8986
+Repetição 3: Performance: 0.8985
+Repetição 4: Performance: 0.8989
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8986
+Repetição 7: Performance: 0.8986
+Repetição 8: Performance: 0.8985
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8986
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8998
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8987
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 22.96%
+Média do percentual de erros: 77.04%
+Média da performance: 0.8986
+
+ ----------------------------------------------------------------
+
+Número de camadas: 5
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8991
+Repetição 3: Performance: 0.8985
+Repetição 4: Performance: 0.8986
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8985
+Repetição 8: Performance: 0.8985
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8985
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8986
+Repetição 15: Performance: 0.8986
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8986
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 28.46%
+Média do percentual de erros: 71.54%
+Média da performance: 0.8986
+
+ ----------------------------------------------------------------
+
+Número de camadas: 10
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.01
+Momentum: 0.90
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8985
+Repetição 3: Performance: 0.8985
+Repetição 4: Performance: 0.8986
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8986
+Repetição 8: Performance: 0.8985
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8985
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8985
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 20.34%
+Média do percentual de erros: 79.66%
+Média da performance: 0.8985
+
+ ----------------------------------------------------------------
+
+Número de camadas: 5
+
+Número de neurônios por camada: 5
+Taxa de aprendizado: 0.05
+Momentum: 0.50
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8985
+Repetição 3: Performance: 0.8986
+Repetição 4: Performance: 0.8985
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8985
+Repetição 8: Performance: 0.8988
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8985
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8985
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8990
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 23.02%
+Média do percentual de erros: 76.98%
+Média da performance: 0.8986
+
+ ----------------------------------------------------------------
+
+Número de camadas: 7
+
+Número de neurônios por camada: 7
+Taxa de aprendizado: 0.07
+Momentum: 0.70
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8985
+Repetição 3: Performance: 0.8986
+Repetição 4: Performance: 0.8985
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8985
+Repetição 8: Performance: 0.8986
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8987
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8985
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 20.06%
+Média do percentual de erros: 79.94%
+Média da performance: 0.8985
+
+ ----------------------------------------------------------------
+
+Número de camadas: 30
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.09
+Momentum: 0.90
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8985
+Repetição 3: Performance: 0.8985
+Repetição 4: Performance: 0.8985
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8985
+Repetição 8: Performance: 0.8985
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8985
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8985
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 25.40%
+Média do percentual de erros: 74.60%
+Média da performance: 0.8985
+
+ ----------------------------------------------------------------
+
+Número de camadas: 50
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.01
+Momentum: 0.70
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8985
+Repetição 3: Performance: 0.8985
+Repetição 4: Performance: 0.8985
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8985
+Repetição 8: Performance: 0.8985
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8985
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8985
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 43.09%
+Média do percentual de erros: 56.91%
+Média da performance: 0.8985
+
+ ----------------------------------------------------------------
+
+Número de camadas: 100
+
+Número de neurônios por camada: 9
+Taxa de aprendizado: 0.01
+Momentum: 0.70
+Repetição 1: Performance: 0.8985
+Repetição 2: Performance: 0.8985
+Repetição 3: Performance: 0.8985
+Repetição 4: Performance: 0.8985
+Repetição 5: Performance: 0.8985
+Repetição 6: Performance: 0.8985
+Repetição 7: Performance: 0.8985
+Repetição 8: Performance: 0.8985
+Repetição 9: Performance: 0.8985
+Repetição 10: Performance: 0.8985
+Repetição 11: Performance: 0.8985
+Repetição 12: Performance: 0.8985
+Repetição 13: Performance: 0.8985
+Repetição 14: Performance: 0.8985
+Repetição 15: Performance: 0.8985
+Repetição 16: Performance: 0.8985
+Repetição 17: Performance: 0.8985
+Repetição 18: Performance: 0.8985
+Repetição 19: Performance: 0.8985
+Repetição 20: Performance: 0.8985
+
+Média do percentual de acertos: 12.47%
+Média do percentual de erros: 87.53%
+Média da performance: 0.8985
